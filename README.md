@@ -1,7 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif)
 <h1 align="center">Hi 👋, I'm Balusani Venkatesh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/Ug6cbVA1ZsMAAAAC/developer.gif">
+<img align="right" alt="Coding" width="400src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemcxcHRqOHN5bmh1ajF2MzN4Z3lnaDBzdndndDBsZnBqczE0NzFhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🌱 I’m currently learning **full stack development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VenkyRock143](https://github.com/VenkyRock143)
