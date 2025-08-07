@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **venky.balusani1@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1IJTttQ6asLFTuxr5KX2S3c2dDpG9aWpL/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/10Cb1_Scu3lsX20e7m94jboG3TGtoMNvB/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
